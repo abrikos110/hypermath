@@ -1,0 +1,4 @@
+(x**2+3*x)/(x**2+3*x+1)
+sin(x)-round(x)
+x*(x-5)*(x+5)
+eval('0b'+''.join(reversed(list(bin(int(x)).replace('0b', '')))))
