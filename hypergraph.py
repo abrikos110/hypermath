@@ -1,6 +1,8 @@
 # coding: utf-8
 #
 
+# Authors: Abdurrahman Magomedov, Andrew Petukhov
+
 __version__ = "v0.2.0"
 
 # Imports
